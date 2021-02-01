@@ -1,3 +1,8 @@
+/*
+ * Author : Cedric-Antoine Ouellet
+ * Date   : 2021/02/01
+ */
+
 window.onload = main;
 
 function main() {
